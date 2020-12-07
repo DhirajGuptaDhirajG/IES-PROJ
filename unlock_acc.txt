@@ -1,0 +1,13 @@
+Hi {FNAME}, {LNAME} :
+<br/>
+Welcome to IES Application, Your registration is Success full as {ROLE}.</br>
+Please use below details to login to your account.<br/>
+<br/>
+Username: {FNAME} {LNAME},
+Password : {PWD}<br/>
+<br/>
+<a href='#'>http://localhost:9090/login?email</a>
+Click Here To Logins Your Account</a> <br/>
+<br/>
+Thanks & Regards,<br/>
+ IES Team. <br/>
